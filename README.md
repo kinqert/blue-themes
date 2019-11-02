@@ -1,2 +1,3 @@
-# blue-themes
-Blue themes for visual studio code
+# Blue Themes
+
+## Blue Light
